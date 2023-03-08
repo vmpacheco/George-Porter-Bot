@@ -1,4 +1,4 @@
-# George Porter Discord Bot
+# George Porter Discord Bot (Originally written 2020)
 Relatively simple discord bot that I wrote for my friends and I to use. 
 
 - Gaming commands
